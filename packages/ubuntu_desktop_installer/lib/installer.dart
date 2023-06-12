@@ -219,6 +219,7 @@ class _UbuntuDesktopInstallerBackground extends StatelessWidget {
 
 enum InstallationStep {
   locale,
+  eula,
   keyboard,
   network,
   source,
@@ -303,6 +304,10 @@ class _UbuntuDesktopInstallWizard extends ConsumerWidget {
         Routes.rst: WizardRoute(
           builder: (_) => const RstPage(),
           onLoad: (_) => RstPage.load(ref),
+        ),
+        Routes.eula: WizardRoute(
+          builder: (_) => const EulaPage(),
+          onLoad: (_) => EulaPage.load(context, ref),
         ),
         Routes.keyboard: WizardRoute(
           builder: (_) => const KeyboardPage(),

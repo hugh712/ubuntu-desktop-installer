@@ -38,7 +38,7 @@ class AppLocalizationsId extends AppLocalizations {
 
   @override
   String welcomePageTitle(Object DISTRO) {
-    return 'Welcome to $DISTRO';
+    return 'Welcome to $DISTRO HughQQ';
   }
 
   @override

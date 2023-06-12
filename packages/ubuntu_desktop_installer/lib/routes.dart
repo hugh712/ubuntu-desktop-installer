@@ -4,6 +4,7 @@ abstract class Routes {
   static const locale = '/locale';
   static const welcome = '/welcome';
   static const rst = '/rst';
+  static const eula = '/eula';
   static const keyboard = '/keyboard';
   static const repairUbuntu = '/repair-ubuntu';
   static const network = '/network';

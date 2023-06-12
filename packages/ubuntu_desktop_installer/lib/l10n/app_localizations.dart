@@ -300,7 +300,7 @@ abstract class AppLocalizations {
   /// No description provided for @welcomePageTitle.
   ///
   /// In en, this message translates to:
-  /// **'Welcome to {DISTRO}'**
+  /// **'Welcome to {DISTRO} HughQQ'**
   String welcomePageTitle(Object DISTRO);
 
   /// No description provided for @preparingUbuntu.
@@ -312,13 +312,13 @@ abstract class AppLocalizations {
   /// No description provided for @welcomeHeader.
   ///
   /// In en, this message translates to:
-  /// **'Choose your language:'**
+  /// **'Choose your language: HughQQ'**
   String get welcomeHeader;
 
   /// No description provided for @tryOrInstallPageTitle.
   ///
   /// In en, this message translates to:
-  /// **'Try or install {DISTRO}'**
+  /// **'Try or install {DISTRO} HughQQ'**
   String tryOrInstallPageTitle(Object DISTRO);
 
   /// No description provided for @repairInstallation.

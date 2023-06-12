@@ -25,7 +25,7 @@
   "@yesButtonText": {},
   "quitButtonText": "Quit installation",
   "@quitButtonText": {},
-  "welcomePageTitle": "Welcome to {DISTRO}",
+  "welcomePageTitle": "Welcome to {DISTRO} HughQQ",
   "@welcomePageTitle": {
     "type": "text",
     "placeholders": {
@@ -39,9 +39,9 @@
       "DISTRO": {}
     }
   },
-  "welcomeHeader": "Choose your language:",
+  "welcomeHeader": "Choose your language: HughQQ",
   "@welcomeHeader": {},
-  "tryOrInstallPageTitle": "Try or install {DISTRO}",
+  "tryOrInstallPageTitle": "Try or install {DISTRO} HughQQ",
   "@tryOrInstallPageTitle": {
     "type": "text",
     "placeholders": {

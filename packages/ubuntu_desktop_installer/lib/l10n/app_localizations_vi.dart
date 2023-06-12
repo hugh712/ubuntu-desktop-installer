@@ -38,7 +38,7 @@ class AppLocalizationsVi extends AppLocalizations {
 
   @override
   String welcomePageTitle(Object DISTRO) {
-    return 'Welcome to $DISTRO';
+    return 'Welcome to $DISTRO HughQQ';
   }
 
   @override
@@ -51,7 +51,7 @@ class AppLocalizationsVi extends AppLocalizations {
 
   @override
   String tryOrInstallPageTitle(Object DISTRO) {
-    return 'Try or install $DISTRO';
+    return 'Try or install $DISTRO HughQQ';
   }
 
   @override

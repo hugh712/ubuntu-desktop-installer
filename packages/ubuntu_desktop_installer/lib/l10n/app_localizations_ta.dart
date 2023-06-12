@@ -38,7 +38,7 @@ class AppLocalizationsTa extends AppLocalizations {
 
   @override
   String welcomePageTitle(Object DISTRO) {
-    return 'Welcome to $DISTRO';
+    return 'Welcome to $DISTRO HughQQ';
   }
 
   @override
@@ -47,7 +47,7 @@ class AppLocalizationsTa extends AppLocalizations {
   }
 
   @override
-  String get welcomeHeader => 'Choose your language:';
+  String get welcomeHeader => 'Choose your language: HughQQ';
 
   @override
   String tryOrInstallPageTitle(Object DISTRO) {
